@@ -1,0 +1,27 @@
+_repo: Narrative-and-Critical-History-of-America-Vol-5-of-8-The-English-and-French-in-North-America-__51470
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Winsor, Justin
+    birthdate: 1831
+    deathdate: 1897
+    gutenberg_agent_id: '41501'
+    url: http://www.gutenberg.org/2009/agents/41501
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'United States -- History'
+- !lcsh 'America -- History'
+- !lcc 'E011'
+- GITenberg
+title: "Narrative and Critical History of America, Vol. 5 (of 8)\r\nThe English and\
+  \ French in North America 1689-1763"
+url: http://www.gutenberg.org/ebooks/51470
